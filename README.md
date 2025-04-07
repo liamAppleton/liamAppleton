@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hey, I'm Liam 👋
 
+Junior Full Stack Developer - JavaScript | React | HTML | CSS | React.js | Node.js | PostreSQL
 
-
-- 🔭 I’m currently working on improving my JavaScript fundamentals through coding challenges.
-- 
-- 🌱 I’m currently learning Node.js & React while building projects to test my understanding of the technologies.
-- 
-- 📫 How to reach me: 
+📫 How to reach me: 
 Email: liamappleton97@outlook.com
+LinkedIn: https://www.linkedin.com/in/liamappleton1/
 
 
